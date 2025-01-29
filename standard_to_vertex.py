@@ -1,5 +1,3 @@
-import math
-
 a_term = int(input("A: "))
 b_term = int(input("B: "))
 c_term = int(input("C: "))
